@@ -1,0 +1,246 @@
+/* Background Label */
+"BACKGROUND_LABEL" = "背景";
+/* Background Tooltip */
+"BACKGROUND_TOOLTIP" = "打开背景配置程序";
+
+/* Layers Label */
+"LAYERS_LABEL" = "图层";
+/* Layers Tooltip */
+"LAYERS_TOOLTIP" = "Open and close the layer view drawer";
+
+/* Document Palette Label */
+"DOCUMENT_PALETTE_LABEL" = "调色板";
+/* Document Palette Tooltip */
+"DOCUMENT_PALETTE_TOOLTIP" = "Open a palette window for this document";
+
+/* Preview Label */
+"PREVIEW_LABEL" = "预览";
+/* Preview Tooltip */
+"PREVIEW_TOOLTIP" = "打开或关闭预览面板";
+
+/* Tool Properties Label */
+"TOOL_PROPERTIES_LABEL" = "工具属性";
+/* Tool Properties Tooltip */
+"TOOL_PROPERTIES_TOOLTIP" = "打开或关闭属性面板";
+
+/* Grid Label */
+"GRID_LABEL" = "网格";
+/* Grid Tooltip */
+"GRID_TOOLTIP" = "显示网格设置";
+
+/* Color Bank Label */
+"COLOR_BANK_LABEL" = "Color Bank";
+/* Color Bank Tooltip */
+"COLOR_BANK_TOOLTIP" = "Open and close the color bank";
+
+/* Color Palette Label */
+"COLOR_PALETTE_LABEL" = "调色板";
+/* Color Palette Tooltip */
+"COLOR_PALETTE_TOOLTIP" = "打开或关闭调色板";
+
+/* Zoom Fit Label */
+"ZOOM_FIT_LABEL" = "缩放至合适大小";
+/* Zoom Fit Tooltip */
+"ZOOM_FIT_TOOLTIP" = "Zoom the canvas to fit the window";
+
+/* Zoom Actual Label */
+"ZOOM_ACTUAL_LABEL" = "实际大小";
+/* Zoom Actual Tooltip */
+"ZOOM_ACTUAL_TOOLTIP" = "Zoom to the actual size of the image";
+
+/* Scale Label */
+"SCALE_LABEL" = "比例缩放";
+/* Scale Tooltip */
+"SCALE_TOOLTIP" = "缩放图像";
+
+/* Resize Label */
+"RESIZE_LABEL" = "调整大小";
+/* Resize Tooltip */
+"RESIZE_TOOLTIP" = "调整画布大小";
+
+/* Zoom Label */
+"ZOOM_LABEL" = "Zoom";
+/* Zoom Tooltip */
+"ZOOM_TOOLTIP" = "Modify the zoom percentage of the zoom";
+
+/* New Animation prompt title */
+"NEW_ANIMATION" = "新建动画";
+/* Animation size prompt */
+"ANIMATION_SIZE_PROMPT" = "指定动画尺寸";
+
+/* Backgrounds Save As */
+"BACKGROUNDS_SAVE_AS" = "Save as new configuration…";
+/* Backgrounds Delete */
+"BACKGROUNDS_DELETE" = "删除当前配置";
+
+/* Flat Background */
+"FLAT_BACKGROUND" = "Flat Background";
+/* Image Background */
+"IMAGE_BACKGROUND" = "Image Background";
+/* Checkered Background */
+"CHECKERED_BACKGROUND" = "Checkered Background";
+/* Slashed Background */
+"SLASHED_BACKGROUND" = "Slashed Background";
+
+/* Palette Save As */
+"PALETTE_SAVE_AS" = "Save as new palette…";
+/* Palette Set Default */
+"PALETTE_SET_DEFAULT" = "Set this palette as default";
+/* Palette Delete */
+"PALETTE_DELETE" = "Delete current palette";
+/* Generated Palette */
+"GENERATED_PALETTE" = "Generated Palette";
+/* Crayons */
+"CRAYONS" = "Crayons";
+/* Web Safe Colors */
+"WEB_SAFE_COLORS" = "Web Safe Colors";
+/* Grayscale */
+"GRAYSCALE" = "Grayscale";
+/* No User Palettes */
+"NO_USER_PALETTES" = "No User Palettes";
+/* New Palette Prompt */
+"NEW_PALETTE_PROMPT" = "Please name the new palette.";
+/* Change Palette Color */
+"Change Palette Color" = "Change Palette Color";
+/* Change Palette */
+"Change Palette" = "Change Palette";
+/* Crash Recovery */
+"CRASH_RECOVERY" = "Crash Recovery";
+/* Crash Text */
+"CRASH_TEXT" = "Pixen appears to have crashed with unsaved changes the last time it was run.  The affected files' backups have been opened for you.  If you would like to save them over the original files, you'll have to use \"Save As…\" and overwrite them.";
+
+/* Width */
+"WIDTH" = "Width";
+"WIDTH_ABBR" = "W";
+/* Height */
+"HEIGHT" = "Height";
+"HEIGHT_ABBR" = "H";
+
+/* Red */
+"RED" = "Red";
+/* Green */
+"GREEN" = "Green";
+/* Blue */
+"BLUE" = "Blue";
+/* Alpha */
+"ALPHA" = "Alpha";
+
+/* Properties */
+"PROPERTIES" = "Properties";
+/* Left */
+"LEFT" = "Left";
+/* Right */
+"RIGHT" = "Right";
+
+/* Modify Pattern… */
+"MODIFY_PATTERN" = "Modify Pattern…";
+/* Set Pattern… */
+"SET_PATTERN" = "Set Pattern…";
+
+/* Nearest Neighbor Info */
+"NEAREST_NEIGHBOR_INFO" = "For every pixel in the new image, this algorithm finds the closest pixel in the current image and uses that color. This results in a lossy image if you're not scaling up by a power of two (2x, 4x, 8x, 16x, ...) This algorithm is ideal if you want a larger image that looks identical to the current image.";
+/* Scale2x Info */
+"SCALE2X_INFO" = "This algorithm provides a larger, smoother image without introducing new colors. This algorithm may only be used to scale up by powers of two, and it works best for scaling up by 2x in both dimensions.";
+
+/* --------------- TOOLS --------------- */
+
+/* Pencil Name */
+"PENCIL_NAME" = "Pencil Tool";
+/* Pencil Action */
+"PENCIL_ACTION" = "Drawing";
+
+/* Line Name */
+"LINE_NAME" = "Line Tool";
+/* Line Action */
+"LINE_ACTION" = "Drawing Line";
+
+/* Eraser Name */
+"ERASER_NAME" = "Eraser Tool";
+/* Eraser Action */
+"ERASER_ACTION" = "Erasure";
+
+/* Fill Name */
+"FILL_NAME" = "Fill Tool";
+/* Fill Action */
+"FILL_ACTION" = "Fill";
+
+/* Eyedropper Name */
+"EYEDROPPER_NAME" = "Eyedropper Tool";
+/* Eyedropper Action */
+/* This is unimplemented until we get to palette undo */
+
+/* Zoom Name */
+"ZOOM_NAME" = "Zoom Tool";
+/* Zoom Action */
+/* No undo for Zoom, so no point in having this */
+
+/* Rectangular Selection Name */
+"RECTANGULARSELECTION_NAME" = "Rectangular Selection Tool";
+/* Rectangular Selection Action */
+"RECTANGULARSELECTION_ACTION" = "Selection";
+
+/* Selection Move Action */
+"SELECTION_MOVE_ACTION" = "Selection Move";
+
+/* Move Name */
+"MOVE_NAME" = "移动工具";
+/* Move Action */
+"MOVE_ACTION" = "移动";
+
+/* Rectangle Name */
+"RECTANGLE_NAME" = "矩形工具";
+/* Rectangle Action */
+"RECTANGLE_ACTION" = "绘制矩形";
+
+/* Ellipse Name */
+"ELLIPSE_NAME" = "椭圆工具";
+/* Ellipse Action */
+"ELLIPSE_ACTION" = "Drawing Ellipse";
+
+/* Magic Wand Name */
+"MAGICWAND_NAME" = "魔术棒";
+/* Magic Wand Action */
+"MAGICWAND_ACTION" = "Selection";
+
+/* Lasso Name */
+"LASSO_NAME" = "索套工具";
+/* Lasso Action */
+"LASSO_ACTION" = "选取";
+
+/* Show Alignment Crosshairs */
+"SHOW_ALIGNMENT_CROSSHAIRS" = "显示十字瞄准线";
+/* Hide Alignment Crosshairs */
+"HIDE_ALIGNMENT_CROSSHAIRS" = "隐藏十字瞄准线";
+
+/* Show Tool Preview */
+"SHOW_TOOL_PREVIEW" = "Show Tool Preview";
+/* Hide Tool Preview */
+"HIDE_TOOL_PREVIEW" = "Hide Tool Preview";
+
+/* Show Tiled View */
+"SHOW_TILED_VIEW" = "Show Tiled View";
+/* Hide Tool Preview */
+"HIDE_TILED_VIEW" = "Hide Tiled View";
+
+/* Show large color swatches */
+"SHOW_LARGE_COLOR_SWATCHES" = "Show large color swatches";
+/* Show small color swatches */
+"SHOW_SMALL_COLOR_SWATCHES" = "Show small color swatches";
+
+/* There is already a system palette by that name. */
+"ALREADY_SYSTEM_PALETTE" = "已存在一个相同名字的系统调色板";
+/* Would you like to pick a different name for %@? */
+"PICK_DIFFERENT_NAME" = "你想选择一个不同的名字吗 %@?";
+
+/* About */
+"VERSION_STRING" = "版本 %@";
+
+// new
+
+"ADD_FRAME" = "增加动画帧";
+"HIDE_PREVIOUS_FRAME_OVERLAY" = "Hide Previous Frame Overlay";
+"SHOW_PREVIOUS_FRAME_OVERLAY" = "Show Previous Frame Overlay";
+"COPY_FRAME" = "复制动画帧";
+"CUT_FRAME" = "剪切动画帧";
+"DUPLICATE_FRAME" = "动画帧副本";
+"DELETE_FRAME" = "删除动画帧";

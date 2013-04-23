@@ -1,6 +1,7 @@
 build
 xcuserdata
  
+DerivedData
 *.pbxuser
 *.perspectivev3
 *.perspective
